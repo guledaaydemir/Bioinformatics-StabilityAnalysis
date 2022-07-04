@@ -1,0 +1,577 @@
+TestCaseNo,phase,Sample,operatingSystem,HOW,isTrimmed,baseRecalibration,Mapper,M_Version,Variant Caller,VC_Version,ReferenceGenom,Duplicates,Variant Filter,FilterPass,SOMATICfilter,remove_indels,Sort,File Link,Result VCF Count,Kim yaptı :)
+TestCase 1,notReady,LL,Linux,Local,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 2,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 3,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 4,notReady,LL,MAC,Local,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 5,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 6,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 7,notReady,LL,Linux,Local,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 8,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 9,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 10,notReady,LL,MAC,Local,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 11,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 12,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 13,notReady,LL,Linux,Local,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 14,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 15,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 16,notReady,LL,MAC,Local,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 17,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 18,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 19,notReady,LL,Linux,Local,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 20,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 21,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 22,notReady,LL,MAC,Local,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 23,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 24,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 25,notReady,LL,Linux,Local,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 26,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 27,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 28,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 29,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 30,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 31,notReady,LL,Linux,Local,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 32,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 33,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 34,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 35,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 36,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 37,notReady,LL,Linux,Local,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 38,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 39,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 40,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 41,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 42,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 43,notReady,LL,Linux,Local,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 44,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 45,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 46,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GAMZE
+TestCase 47,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,ESRA
+TestCase 48,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 49,notReady,LL,Linux,Local,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 50,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 51,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 52,notReady,LL,MAC,Local,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 53,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 54,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 55,notReady,LL,Linux,Local,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 56,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 57,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 58,notReady,LL,MAC,Local,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 59,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 60,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 61,notReady,LL,Linux,Local,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 62,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 63,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 64,notReady,LL,MAC,Local,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 65,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 66,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 67,notReady,LL,Linux,Local,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 68,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 69,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 70,notReady,LL,MAC,Local,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 71,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 72,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 73,notReady,LL,Linux,Local,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 74,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 75,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 76,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 77,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 78,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 79,notReady,LL,Linux,Local,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 80,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 81,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 82,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 83,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 84,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 85,notReady,LL,Linux,Local,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 86,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 87,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 88,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 89,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 90,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 91,notReady,LL,Linux,Local,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 92,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 93,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 94,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GAMZE
+TestCase 95,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,ESRA
+TestCase 96,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 97,notReady,LL,Linux,Local,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 98,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 99,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 100,notReady,LL,MAC,Local,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 101,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 102,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 103,notReady,LL,Linux,Local,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 104,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 105,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 106,notReady,LL,MAC,Local,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 107,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 108,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 109,notReady,LL,Linux,Local,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 110,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 111,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 112,notReady,LL,MAC,Local,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 113,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 114,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 115,notReady,LL,Linux,Local,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 116,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 117,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 118,notReady,LL,MAC,Local,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 119,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 120,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 121,notReady,LL,Linux,Local,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 122,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 123,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 124,notReady,LL,MAC,Local,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 125,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 126,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 127,notReady,LL,Linux,Local,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 128,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 129,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 130,notReady,LL,MAC,Local,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 131,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 132,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 133,notReady,LL,Linux,Local,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 134,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 135,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 136,notReady,LL,MAC,Local,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 137,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 138,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 139,notReady,LL,Linux,Local,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 140,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 141,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 142,notReady,LL,MAC,Local,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GAMZE
+TestCase 143,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,ESRA
+TestCase 144,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,MARK,,,,,,,,GÜL EDA
+TestCase 145,done,LL,Linux,Local,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 146,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 147,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 148,notReady,LL,MAC,Local,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 149,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 150,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 151,done,LL,Linux,Local,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 152,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 153,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 154,notReady,LL,MAC,Local,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 155,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 156,error!,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 157,done,LL,Linux,Local,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 158,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 159,done,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1nG9mtUIQHH0jq09Rb9ys_R7ke8WR0oAN?usp=sharing,,GÜL EDA
+TestCase 160,notReady,LL,MAC,Local,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 161,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 162,error!,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 163,done,LL,Linux,Local,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 164,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 165,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 166,notReady,LL,MAC,Local,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 167,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 168,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 169,done,LL,Linux,Local,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 170,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 171,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 172,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 173,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 174,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 175,done,LL,Linux,Local,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 176,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 177,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 178,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 179,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 180,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 181,done,LL,Linux,Local,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 182,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 183,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1HJ8_4WI0ZNmW5iTS-7cDPVB_KAT2KEqX?usp=sharing,,GÜL EDA
+TestCase 184,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 185,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 186,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 187,done,LL,Linux,Local,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 188,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 189,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 190,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GAMZE
+TestCase 191,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,ESRA
+TestCase 192,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 193,done,LL,Linux,Local,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 194,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 195,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 196,notReady,LL,MAC,Local,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 197,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 198,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 199,done,LL,Linux,Local,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 200,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 201,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 202,notReady,LL,MAC,Local,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 203,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 204,error!,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 205,done,LL,Linux,Local,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 206,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 207,done,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1v8rfJ7LVl6kG_NaSn6OfR9CqLHbTgalw?usp=sharing,,GÜL EDA
+TestCase 208,notReady,LL,MAC,Local,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 209,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 210,error!,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 211,done,LL,Linux,Local,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 212,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 213,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 214,notReady,LL,MAC,Local,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 215,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 216,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 217,done,LL,Linux,Local,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 218,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 219,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 220,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 221,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 222,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 223,done,LL,Linux,Local,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 224,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 225,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 226,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 227,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 228,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 229,done,LL,Linux,Local,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 230,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 231,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1Nm0gZjs-lqE-MTv_T8G40MGBFCAp2Y4W?usp=sharing,,GÜL EDA
+TestCase 232,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 233,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 234,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 235,done,LL,Linux,Local,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 236,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 237,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 238,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GAMZE
+TestCase 239,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,ESRA
+TestCase 240,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 241,done,LL,Linux,Local,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 242,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 243,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 244,notReady,LL,MAC,Local,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 245,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 246,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 247,done,LL,Linux,Local,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 248,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 249,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 250,notReady,LL,MAC,Local,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 251,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 252,error!,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 253,done,LL,Linux,Local,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 254,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 255,done,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1Xs66tf9lUSNaQ_CPsne33ff0Ydct2EwF?usp=sharing,,GÜL EDA
+TestCase 256,notReady,LL,MAC,Local,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 257,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 258,error!,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 259,done,LL,Linux,Local,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 260,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 261,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 262,notReady,LL,MAC,Local,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 263,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 264,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 265,done,LL,Linux,Local,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 266,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 267,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 268,notReady,LL,MAC,Local,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 269,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 270,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 271,done,LL,Linux,Local,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 272,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 273,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 274,notReady,LL,MAC,Local,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 275,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 276,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 277,done,LL,Linux,Local,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 278,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 279,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,https://drive.google.com/drive/folders/1HbstKHqD_9-g2vBECxWejVUkOtFvA8ye?usp=sharing,,GÜL EDA
+TestCase 280,notReady,LL,MAC,Local,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 281,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 282,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 283,done,LL,Linux,Local,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 284,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 285,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 286,notReady,LL,MAC,Local,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GAMZE
+TestCase 287,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,ESRA
+TestCase 288,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,MARK,,,,,,,,GÜL EDA
+TestCase 289,notReady,LL,Linux,Local,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 290,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 291,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 292,notReady,LL,MAC,Local,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 293,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 294,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 295,notReady,LL,Linux,Local,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 296,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 297,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 298,notReady,LL,MAC,Local,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 299,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 300,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 301,notReady,LL,Linux,Local,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 302,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 303,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 304,notReady,LL,MAC,Local,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 305,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 306,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 307,notReady,LL,Linux,Local,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 308,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 309,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 310,notReady,LL,MAC,Local,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 311,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 312,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 313,notReady,LL,Linux,Local,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 314,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 315,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 316,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 317,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 318,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 319,notReady,LL,Linux,Local,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 320,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 321,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 322,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 323,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 324,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 325,notReady,LL,Linux,Local,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 326,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 327,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 328,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 329,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 330,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 331,notReady,LL,Linux,Local,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 332,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 333,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 334,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 335,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,ESRA
+TestCase 336,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 337,notReady,LL,Linux,Local,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 338,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 339,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 340,notReady,LL,MAC,Local,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 341,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 342,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 343,notReady,LL,Linux,Local,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 344,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 345,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 346,notReady,LL,MAC,Local,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 347,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 348,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 349,notReady,LL,Linux,Local,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 350,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 351,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 352,notReady,LL,MAC,Local,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 353,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 354,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 355,notReady,LL,Linux,Local,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 356,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 357,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 358,notReady,LL,MAC,Local,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 359,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 360,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 361,notReady,LL,Linux,Local,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 362,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 363,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 364,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 365,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 366,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 367,notReady,LL,Linux,Local,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 368,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 369,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 370,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 371,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 372,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 373,notReady,LL,Linux,Local,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 374,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 375,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 376,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 377,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 378,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 379,notReady,LL,Linux,Local,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 380,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 381,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 382,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 383,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,ESRA
+TestCase 384,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 385,notReady,LL,Linux,Local,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 386,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 387,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 388,notReady,LL,MAC,Local,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 389,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 390,notReady,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 391,notReady,LL,Linux,Local,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 392,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 393,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 394,notReady,LL,MAC,Local,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 395,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 396,notReady,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 397,notReady,LL,Linux,Local,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 398,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 399,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 400,notReady,LL,MAC,Local,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 401,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 402,notReady,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 403,notReady,LL,Linux,Local,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 404,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 405,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 406,notReady,LL,MAC,Local,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 407,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 408,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 409,notReady,LL,Linux,Local,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 410,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 411,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 412,notReady,LL,MAC,Local,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 413,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 414,notReady,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 415,notReady,LL,Linux,Local,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 416,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 417,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 418,notReady,LL,MAC,Local,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 419,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 420,notReady,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 421,notReady,LL,Linux,Local,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 422,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 423,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 424,notReady,LL,MAC,Local,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 425,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 426,notReady,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 427,notReady,LL,Linux,Local,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 428,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 429,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 430,notReady,LL,MAC,Local,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GAMZE
+TestCase 431,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,ESRA
+TestCase 432,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg19,DELETE,,,,,,,,GÜL EDA
+TestCase 433,done,LL,Linux,Local,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 434,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 435,done,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1nBnrEG0vkv4A5IgkUWdftstaSswYPD7h?usp=sharing,,GÜL EDA
+TestCase 436,notReady,LL,MAC,Local,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 437,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 438,error!,LL,,Uhem + COSAP,YES,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 439,done,LL,Linux,Local,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 440,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 441,done,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1X2ykoeKkbCWuXJ2z4GVHGQWaxjzDhTY7?usp=sharing,,GÜL EDA
+TestCase 442,notReady,LL,MAC,Local,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 443,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 444,error!,LL,,Uhem + COSAP,NO,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 445,done,LL,Linux,Local,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 446,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 447,done,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/10WE83fU9Cvp3xpJi83fQ47i1twlDb4Fi?usp=sharing,,GÜL EDA
+TestCase 448,notReady,LL,MAC,Local,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 449,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 450,error!,LL,,Uhem + COSAP,YES,NO,BWA,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 451,done,LL,Linux,Local,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 452,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 453,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 454,notReady,LL,MAC,Local,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 455,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 456,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 457,done,LL,Linux,Local,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/file/d/1vHdtOOXHSWNC9pgnlQe4zuIoZrxSOYd3/view?usp=sharing,,GAMZE
+TestCase 458,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 459,done,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1KyHLsnJSI6c9kquU-2o3t8X4hhv50MLd?usp=sharing,,GÜL EDA
+TestCase 460,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 461,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 462,error!,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 463,done,LL,Linux,Local,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/file/d/1ZDcJbDGPluKo2ozpXoYbJmDqc2yPaCHk/view?usp=sharing,,GAMZE
+TestCase 464,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 465,done,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/198PQ6Ewo7vRyoFhfzf0kC1oDuyJ879lU?usp=sharing,,GÜL EDA
+TestCase 466,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 467,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 468,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 469,done,LL,Linux,Local,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 470,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 471,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1F1A05glBm5JKdY2L7HW9KQkZQ13WtNMf?usp=sharing,,GÜL EDA
+TestCase 472,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 473,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 474,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 475,done,LL,Linux,Local,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,https://drive.google.com/file/d/1UU8JkObS1DBhdj319EjVdqwbLnnxcMpb/view?usp=sharing,,GAMZE
+TestCase 476,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 477,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 478,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 479,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,ESRA
+TestCase 480,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Mutect,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 481,done,LL,Linux,Local,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 482,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 483,done,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1ycRRP55yOI4ELwh7HpzqQ3guTrm047nP?usp=sharing,,GÜL EDA
+TestCase 484,notReady,LL,MAC,Local,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 485,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 486,error!,LL,,Uhem + COSAP,YES,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 487,done,LL,Linux,Local,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 488,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 489,done,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/11IsIHIPStR7tjtyi9bdso8mlUBjjvEl2?usp=sharing,,GÜL EDA
+TestCase 490,notReady,LL,MAC,Local,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 491,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 492,error!,LL,,Uhem + COSAP,NO,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 493,done,LL,Linux,Local,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 494,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 495,done,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1lzoPLPuTSr5JZ8WDS3JPI25ybRFqHbAJ?usp=sharing,,GÜL EDA
+TestCase 496,notReady,LL,MAC,Local,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 497,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 498,error!,LL,,Uhem + COSAP,YES,NO,BWA,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 499,done,LL,Linux,Local,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 500,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 501,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 502,notReady,LL,MAC,Local,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 503,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 504,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 505,done,LL,Linux,Local,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 506,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 507,done,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1rrJS191Im0qNfmdjieJs0xbKaNgaOtEk?usp=sharing,,GÜL EDA
+TestCase 508,notReady,LL,MAC,Local,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 509,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 510,error!,LL,,Uhem + COSAP,YES,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 511,done,LL,Linux,Local,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 512,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 513,checkNotes.,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,"hata çıktı, tekrar edilecek.",,GÜL EDA
+TestCase 514,notReady,LL,MAC,Local,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 515,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 516,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 517,done,LL,Linux,Local,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 518,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 519,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1UwOvScon4_zrq682p9Txuz9_X-kgd0RZ?usp=sharing,,GÜL EDA
+TestCase 520,notReady,LL,MAC,Local,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 521,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 522,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 523,done,LL,Linux,Local,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 524,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 525,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 526,notReady,LL,MAC,Local,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 527,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,ESRA
+TestCase 528,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,Strelka,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 529,done,LL,Linux,Local,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 530,notReady,LL,Linux,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 531,done,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1tDvdc4rgwzhOrS2Kbb1yEm6wjn4BvLgE?usp=sharing,,GÜL EDA
+TestCase 532,notReady,LL,MAC,Local,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 533,notReady,LL,MAC,Local + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 534,error!,LL,,Uhem + COSAP,YES,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 535,done,LL,Linux,Local,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 536,notReady,LL,Linux,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 537,done,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1pIWDGWlcoKUNnJAKSOc37_-zEDUGWZ5_?usp=sharing,,GÜL EDA
+TestCase 538,notReady,LL,MAC,Local,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 539,notReady,LL,MAC,Local + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 540,error!,LL,,Uhem + COSAP,NO,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 541,done,LL,Linux,Local,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 542,notReady,LL,Linux,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 543,done,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1MfHEdTFeU4wK-V1L66mWr_05PGN2FHH3?usp=sharing,,GÜL EDA
+TestCase 544,notReady,LL,MAC,Local,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 545,notReady,LL,MAC,Local + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 546,error!,LL,,Uhem + COSAP,YES,NO,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 547,done,LL,Linux,Local,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 548,notReady,LL,Linux,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 549,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 550,notReady,LL,MAC,Local,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 551,notReady,LL,MAC,Local + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 552,notReady,LL,,Uhem + COSAP,NO,YES,BWA,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 553,done,LL,Linux,Local,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 554,notReady,LL,Linux,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 555,done,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/16zrMWdtsp50W8e0kAuF96auAj_a5b92e?usp=sharing,,GÜL EDA
+TestCase 556,notReady,LL,MAC,Local,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 557,notReady,LL,MAC,Local + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 558,error!,LL,,Uhem + COSAP,YES,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 559,done,LL,Linux,Local,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 560,notReady,LL,Linux,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 561,done,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 562,notReady,LL,MAC,Local,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 563,notReady,LL,MAC,Local + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 564,error!,LL,,Uhem + COSAP,NO,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 565,done,LL,Linux,Local,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 566,notReady,LL,Linux,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 567,done,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,https://drive.google.com/drive/folders/1k6x6J6v9J248s5cv1lQv3tq6tQUcFd_i?usp=sharing,,GÜL EDA
+TestCase 568,notReady,LL,MAC,Local,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 569,notReady,LL,MAC,Local + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 570,error!,LL,,Uhem + COSAP,YES,NO,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 571,done,LL,Linux,Local,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 572,notReady,LL,Linux,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 573,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
+TestCase 574,notReady,LL,MAC,Local,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GAMZE
+TestCase 575,notReady,LL,MAC,Local + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,ESRA
+TestCase 576,notReady,LL,,Uhem + COSAP,NO,YES,BOWTIE,,SomaticSniper,,hg38,DELETE,,,,,,,,GÜL EDA
